@@ -1,0 +1,11 @@
+{
+  "name": "docbox",
+  "version": "0.0.0",
+  "description": "",
+  "main": "api/server.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "author": "Tom Wilson",
+  "license": "MIT"
+}
